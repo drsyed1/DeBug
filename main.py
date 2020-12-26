@@ -12,6 +12,8 @@ update_channel = os.environ.get("-1001484903966")
 api_id = (os.environ.get("1715074"))
 api_hash = os.environ.get("0c8fb6a43409019900aa98f439eceec4")
 
+user_client = pyrogram.client
+
 
 def main():
     with user_client:

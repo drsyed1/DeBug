@@ -9,7 +9,7 @@ user_session_string = "1BVtsOHwBuwqrsinlWxs5au0hdAmI3kcYtpy5BK97xaZda6EDkiEIA90r
 bots = ["@WhiteEyeRenameBot", "@bot2"]
 bot_owner = ("@Mr_StarLords")
 update_channel = ("-1001484903966")
-api_id = ("1715074"))
+api_id = ("1715074")
 api_hash = ("0c8fb6a43409019900aa98f439eceec4")
 
 user_client = pyrogram.Client(
